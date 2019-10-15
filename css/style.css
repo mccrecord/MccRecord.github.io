@@ -628,10 +628,13 @@ a.article-title:hover {
   padding: 10px 0;
 }
 .article-entry blockquote {
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.4em;
-  margin: 1.6em 20px;
-  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-size: 1em;
+  border-left: 5px solid #ddd;
+  padding-left: 10px;
+  margin: 1.6em 15px;
+  text-align: left;
+  background: #eee;
 }
 .article-entry blockquote footer {
   font-size: 14px;
